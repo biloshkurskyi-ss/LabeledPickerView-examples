@@ -1,4 +1,4 @@
 LabeledPickerView-examples
 ==========================
 
-How user LabeledPickerView. Simple axamples.
+How user Labeled PickerView. Simple examples.
